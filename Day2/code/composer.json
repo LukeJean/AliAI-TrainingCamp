@@ -1,0 +1,13 @@
+{
+    "name": "root/aliai",
+    "authors": [
+        {
+            "name": "li jing",
+            "email": "lj_nobug@foxmail.com"
+        }
+    ],
+    "require": {
+        "alibabacloud/sdk": "^1.8",
+        "aliyuncs/oss-sdk-php": "^2.3"
+    }
+}
